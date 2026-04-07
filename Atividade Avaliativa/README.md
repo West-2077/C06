@@ -1,6 +1,8 @@
 
 NOME: Marcelo Henrique da Silva Costa
+
 CURSO: Engenharia de Software
+
 MATRÍCULA: 628
 
 Uso de IA: Usei IA na atividade para verificar por que meu código não estava rodando e para me explicar o erro, para que eu pudesse corrigi-lo.
